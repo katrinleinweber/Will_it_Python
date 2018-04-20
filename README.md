@@ -12,13 +12,14 @@ The code is organized into subfolders by translation project. The projects so fa
 
 ## Python and library versions:
 The code is written for Python 2.7. Third party libraries used in projects are:
-    - Numpy 1.7.0h2
-    - Scipy 0.11.0
-    - matplotlib 1.1.2
-    - pandas 0.9.1
-    - statsmodels 0.5.0 (dev)
-    - NLTK 2.0.4
-    - scikit-learn 0.12.1
+
+- Numpy 1.7.0h2
+- Scipy 0.11.0
+- matplotlib 1.1.2
+- pandas 0.9.1
+- statsmodels 0.5.0 (dev)
+- NLTK 2.0.4
+- scikit-learn 0.12.1
 
 I'm also using IPython 0.13 to create the IPython notebooks. 
 
